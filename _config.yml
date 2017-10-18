@@ -7,4 +7,4 @@ github-username: ottagit
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: minima
