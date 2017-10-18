@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+title: Repo Site
+author: Chris Otta
+email: otta.chris@gmail.com
+description: A demo for GitHub pages using Jekyll
+twitter-username: otta_chris
+github-username: ottagit
+
+# Build settings
+markdown: kramdown
+theme: minima
